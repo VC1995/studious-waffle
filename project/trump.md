@@ -16,31 +16,31 @@ We collected data from various sources, including government reports, news artic
 
 We begin by examining the economic impact of Trump's policies. Below is a bar chart illustrating the GDP growth rate over the years:
 
-![Figure1](assets/Figure_1.png)
+![Figure1](../assets/Figure_1.png)
 
 ### Immigration Policy
 
 Next, we analyze the effects of Trump's immigration policies. The following pie chart shows the distribution of immigration visas granted:
 
-![Figure2](assets/Figure_2.png
+![Figure2](../assets/Figure_2.png
 
 ### Climate Change Policy
 
 We also look into Trump's approach to climate change. Here's a line chart showing the trend of carbon emissions during his presidency:
 
-![Figure3](assets/Figure_3.png)
+![Figure3](../assets/Figure_3.png)
 
 ### Healthcare Policy
 
 Trump's healthcare policies have been a significant point of contention. Below is a histogram depicting the distribution of healthcare coverage among different demographics:
 
-![Figure4](assets/Figure_4.png)
+![Figure4](../assets/Figure_4.png)
 
 ### International Relations
 
 Finally, we examine Trump's approach to international relations. Here's a scatter plot representing diplomatic relations with various countries:
 
-![Figure5](assets/Figure_5.png)
+![Figure5](../assets/Figure_5.png)
 
 ## Conclusion
 
