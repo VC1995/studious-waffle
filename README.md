@@ -1,13 +1,23 @@
 # studious-waffle
 
-A sample repository to try out github pages with many projects
+Welcome to studious-waffle, a sample repository to try out GitHub Pages with various projects.
 
+## Table of Contents
+
+- [About](#about)
+- [Project List](#project-list)
+- [GitHub Repository](#github-repository)
+
+## About
+
+This repository serves as a playground to explore GitHub Pages features, including markdown formatting, embedding assets, and showcasing different projects.
 
 ## Project List 
 
-1. [A funny bone in your body!](project/funny-bone.md)
-2. [How can trump do this?](project/trump.md)
-3. [Sing along with me, yo!](project/sing-along.md)
+1. [A Funny Bone in Your Body!](project/funny-bone.md)
+2. [How Can Trump Do This?](project/trump.md)
+3. [Sing Along with Me, Yo!](project/sing-along.md)
 
-## About Me
+## GitHub Repository
 
+Find the source code and contribute to this repository on [GitHub](https://github.com/yourusername/studious-waffle).
