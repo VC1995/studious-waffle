@@ -20,4 +20,4 @@ This repository serves as a playground to explore GitHub Pages features, includi
 
 ## GitHub Repository
 
-Find the source code and contribute to this repository on [GitHub](https://github.com/yourusername/studious-waffle).
+Find the source code and contribute to this repository on [GitHub](https://github.com/vc1995/studious-waffle).
