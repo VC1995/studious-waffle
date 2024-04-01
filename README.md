@@ -2,6 +2,8 @@
 
 Welcome to studious-waffle, a sample repository to try out GitHub Pages with various projects.
 
+Go to [presentation](slides/index.html) to see the slides.
+
 ## Table of Contents
 
 - [About](#about)

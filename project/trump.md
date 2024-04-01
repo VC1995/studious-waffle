@@ -22,7 +22,7 @@ We begin by examining the economic impact of Trump's policies. Below is a bar ch
 
 Next, we analyze the effects of Trump's immigration policies. The following pie chart shows the distribution of immigration visas granted:
 
-![Figure2](../assets/Figure_2.png
+![Figure2](../assets/Figure_2.png)
 
 ### Climate Change Policy
 
